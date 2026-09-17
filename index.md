@@ -1,4 +1,4 @@
 test
 # introduction 
 ## general idea 
-(open the introduction page) (introduction)
+[open the introduction page] (traduction)
